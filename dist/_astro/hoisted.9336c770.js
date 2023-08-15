@@ -1,1 +1,0 @@
-const t=document.querySelector("#menu-btn"),e=document.querySelector("#menu-menu");t.addEventListener("click",()=>{e.classList.toggle("hidden"),t.classList.toggle("open"),e-e.classList.toggle("flex")});
